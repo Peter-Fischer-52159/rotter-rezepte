@@ -1,4 +1,4 @@
 ## rotter-rezepte
 #Rezepte-Blog von Rottern für Rotter
 
-hier kommt später die Zielsetzung für das Projekt 
+Hier wird später die Zielsetzung für das Projekt näher beschrieben!
